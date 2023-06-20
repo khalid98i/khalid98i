@@ -3,12 +3,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<img src="https://i.pinimg.com/736x/3f/13/57/3f1357daa60daa686dfef453dc31271b.jpg" width="290px" height="250px" align="right" >
-### Connect with Me :
+<img src="https://github.com/OmarReda/OmarReda/blob/master/Heading3.gif" width="290px" height="250px" align="right" >
+<h2><img width="40" src="https://github.com/OmarReda/OmarReda/blob/master/source.gif"> About me</h2> 
+
+  - **Fresh Graduate Software Engineer**.
+  
+
+  - 1 Year **Working experience in Software Engineering**.
+  
+  - Interested in **Web Development and Cloud Technologies**.
+
+Connect with Me :
 
 <a href="https://www.linkedin.com/in/khaled-abdelnaby-6a3b17153/" target="_blank"><img src="https://img.shields.io/badge/-khaled%20abdelnaby-6a3b17153?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Skilss
 ![angular](https://img.shields.io/badge/-angular%20-05122A?style=flat&logo=angular)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs%20-05122A?style=flat&logo=Nodejs)&nbsp;soon!
 
